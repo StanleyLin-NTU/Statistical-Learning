@@ -20,7 +20,6 @@ Co-workers: Kelly Hsieh, Victor Lee, Xenia Lin @NTUIM
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-19.png)
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-20.png)
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-41.png)
-![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-42.png)
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-43.png)
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-44.png)
 ![img](https://github.com/StanleyLin-NTU/Statistical-Learning/blob/master/Stat_Learn_Pics/Stat_Learn-45.png)
