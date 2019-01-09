@@ -1,7 +1,8 @@
 # Statistical-Learning
 Advanced course of statistical models implemented by R and Python.  
 
-Some slides of final presenataion: (Due to authority and privacy issues, only fews slides are shown in original language.)  
+Some slides of final presenataion:    
+(Due to authority and privacy issues, only fews slides are shown in original language.)  
 
 Advisor: Prof.Hsin-Min Lu @NTUIM  
 Co-workers: Kelly Hsieh, Victor Lee, Xenia Lin @NTUIM  
